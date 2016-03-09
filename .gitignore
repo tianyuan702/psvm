@@ -1,0 +1,5 @@
+svm_train
+svm_predict
+model.*
+PredictResult
+obj/
